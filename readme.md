@@ -1,8 +1,8 @@
 ## Olá, eu sou Briam Assis 
 
-- 👀 Hoje trabalho com front-end  
-- 🌱 Estudando Typescrip/Python
-- 💞️ Pronoums: ele/dele
+- 🧑‍💻 Hoje trabalho com front-end  
+- 🎓Estudando Typescrip/Python
+- 🤓Pronoums: ele/dele
 
 <div align="left">
   <a href="https://github.com/BriamSilva">
