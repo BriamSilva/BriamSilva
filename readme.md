@@ -1,7 +1,12 @@
-## Olá, eu sou Briam Assis 
+## Olá , prazer sou Briam Silva
+
+Sou desenvolvedor Front-end e praticando a cada dia mais.
+Busco novos desfios na área de tecnologia para agregar todas as minhas habilidades, que vão além de habilidades técnicas. 
+Full Stack Developer objeitvo a ser alcançado.
 
 - 🧑‍💻 Hoje trabalho com front-end  
-- 🎓Estudando Typescrip/Python
+- 🎓Estudando Typescrip/Python/JavaScript
+- 🎓Aperfeiçoando o Inglês
 - 🤓Pronoums: ele/dele
 
 <div align="left">
